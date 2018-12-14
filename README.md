@@ -1,0 +1,2 @@
+# wordcount
+Wordcount Django Project
